@@ -30,9 +30,11 @@ public:
 
 int main() 
 {
-    Vehicle* v1 = new Car();
-    Vehicle* v2 = new Bike();
-    v1->canRun();
-    v2->canRun();
+    Vehicle v1;
+    v1.canRun();
+    Car c1;
+    c1.canRun();
+    Bike b1;
+    b1.canRun();
     return 0;
 }
