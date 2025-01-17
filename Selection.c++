@@ -21,12 +21,9 @@ int main()
                 minInd = j;
             }
         }
-        if(minInd != i)
-        {
-            int temp = arr[i];
-            arr[i] = arr[minInd];
-            arr[minInd] = temp;
-        }
+            int temp = arr[minInd];
+            arr[minInd] = arr[i];
+            arr[i] = temp;
     }
     cout << "Sorted Elements: ";
     for(int i = 0; i < n; i++)
