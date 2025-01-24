@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-",
-      "program": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/2D",
+      "program": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/2D/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
