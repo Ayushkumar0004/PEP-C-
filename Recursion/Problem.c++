@@ -8,6 +8,7 @@ int power(int a, int n)
     }
     return a * power(a, n-1);
 }
+
 int main()
 {
     int a, n;
