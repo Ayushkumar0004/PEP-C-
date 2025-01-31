@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/Recursion",
-      "program": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/Recursion/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/DSA",
+      "program": "c:/Users/HP/Desktop/PEP(C++)/PEP-C-/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
